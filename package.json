@@ -23,7 +23,7 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
     "Abner Chou <hi@abnerchou.me> (http://abnerchou.me)"
-    ],
+  ],
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
@@ -40,7 +40,6 @@
     "hexo-fs": "^0.2.0",
     "hexo-util": "^0.6.0",
     "moment": "^2.18.0",
-    "swig": "^1.4.2",
     "babel-eslint": "^7.2.1"
   }
 }
